@@ -96,5 +96,5 @@ npm run dev
 
 The web application can be accessed at http://localhost:5173
 
-The video link can be accessed at https://drive.google.com/file/d/1flqGTgWaP-fgPExeRH1vjbHiJPp29q4f/view
+The video link can be accessed at https://vimeo.com/858455087?share=copy
 
